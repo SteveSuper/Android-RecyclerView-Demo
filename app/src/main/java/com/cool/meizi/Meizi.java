@@ -16,17 +16,9 @@ public class Meizi {
         this.comments = comments;
     }
 
-    String getImageUrl() { return imageUrl; }
-    public String getTitle() {
-        return title;
-    }
-    public String getName() {
-        return name;
-    }
-    int getFavorites() {
-        return favorites;
-    }
-    int getComments() {
-        return comments;
-    }
+    public String getImageUrl() { return imageUrl; }
+    public String getTitle() { return title; }
+    public String getName() { return name; }
+    public int getFavorites() { return favorites; }
+    public int getComments() { return comments; }
 }
