@@ -1,5 +1,5 @@
 ## Android RecyclerView Demo
-This is just an Android RecyclerView Demo from my tutorial.
+This is just an Android RecyclerView Demo from my tutorial. It's in Chinese.
 The tutorial's address is here.
 https://www.jianshu.com/p/4782824d9307
 
